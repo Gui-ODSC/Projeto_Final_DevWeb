@@ -218,7 +218,7 @@
                                 <div class="d-flex justify-content-between">
                                     <div>
                                         <a href="{% url 'listar_acao' portfolio.id_portfolio carteira.id_carteira %}" class="btn btn-sm btn-primary">Visualizar</a>
-                                        <a href="{% url 'editar_carteira' portfolio.id_portfolio carteira.id_carteira %}" class="btn btn-sm ms-auto"><i class="bi bi-pencil-square"></i></a>
+                                        <a href="{% url 'editar_carteira' portfolio.id_portfolio carteira.id_carteira %}" class="btn btn-sm btn-secondary">Editar<i class="bi bi-pencil-square"></i></a>
                                     </div>
                                     <div>
                                         <a href="{% url 'deletar_carteira' portfolio.id_portfolio carteira.id_carteira %}" class="btn btn-sm btn-danger ms-auto"><i class="bi bi-trash"></i></a>
