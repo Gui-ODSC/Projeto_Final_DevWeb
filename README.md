@@ -15,17 +15,30 @@ InvestSync é um projeto de investimento que permite aos usuários acompanhar e 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/SeuNomeDeUsuário/InvestSync.git
+   git clone git@github.com:Gui-ODSC/Projeto_Final_DevWeb.git
 
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
+## Tecnologias Utilizadas
+
+- **Django**
+- **Python**
+- **HTML e CSS**
+- **JavaScript**
+
 ## Autores
 
 - **Arthur Paulino Malgarisi Aguiar**
 - **Guilherme Oliveira de Sá Cabrera**
+
+## Disciplina do Projeto
+
+Desenvolvimento Web - Universidade Federal de Santa Catarina (UFSC)
+
+
 
 
         
